@@ -9,3 +9,10 @@ I'm Rawan Khattab, a passionate Junior Full Stack Web Developer with hands-on ex
 ✨ My Technical Skills ✨
 --
 image image image image image image
+
+
+
+
+🤙 Connect with me
+--
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
