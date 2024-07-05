@@ -1,25 +1,11 @@
-## Hi there 👋
-Hi, I'm Rawan. You might recognize me as GitHub's mascot.
+ 👋Welcome to My GitHub Profile!
+
+✨ About Me ✨
 --
-<!--
-**Rawankhattab/Rawankhattab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rawan Khattab, a passionate Junior Full Stack Web Developer with hands-on experience in building and deploying web applications. I have a solid background in both front-end and back-end development, focusing on creating seamless user experiences. I recently completed a rigorous 22-week immersive ⚡ Full-Stack Web Development Bootcamp at MERAKI Academy JO, where I honed my skills and tackled real-world projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+✨ My Technical Skills ✨
+--
+image image image image image image
